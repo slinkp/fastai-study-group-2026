@@ -140,6 +140,9 @@ commands and API calls that need fixing; outdated recommendations for deployment
 
 Since deployment is the whole focus of the chapter, it's probably the most
 dated / inaccurate content in this whole series.
+In particular, Viola no longer seems to be a relevant thing.
+
+### Deploying to Production
 
 The [lesson 2](https://course.fast.ai/Lessons/lesson2.html) lecture video and
 lesson notebooks are sufficient.
