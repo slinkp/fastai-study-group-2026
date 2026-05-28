@@ -1,0 +1,14 @@
+.envrc
+*.ipynb_checkpoints/
+*.gradio
+lessons/bass_or_not
+lessons/guitar.jpg
+lessons/bass.jpg
+lessons/titanic*
+lessons/*zip
+lessons/*paddy*
+lessons/*sub*csv
+README.html
+.aider*
+*pth
+*pkl
