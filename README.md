@@ -20,7 +20,12 @@ collaborative, encouraging environment. It's phenomenal. And free!
 # What's in this repo
 
 - This README to dump notes as I go
-- Coursework: Notebooks (Jupyter) 
+
+- `fastbook`: a subtree from https://github.com/fastai/fastbook not sure if I'm
+  going to use this.
+
+- `course22`: a subtree from https://github.com/fastai/course22 for me to work
+  on lesson notebooks
 
 # Where's last year's stuff?
 
@@ -58,13 +63,13 @@ versions of them.
 I wanted a place to combine all my notebooks from website exercises AND from
 the textbook, and the notes in this file.
 
-- The [book repo](https://github.com/fastai/fastbook) has been cloned as a git subtree in `fastbook/`
+- The [book repo](https://github.com/fastai/fastbook) has been cloned as a git
+  subtree in `fastbook/`
+  - i'm not sure i'm going to do these this time; so much was redundant.
   - The original, untouched source of each chapter is in
     `fastbook/clean/*.ipynb`
 
-- My edited copies including run output will be put in `fastbook/*.ipynb`
-
-- Lesson notebooks for each lecture will be put in `lessons/`,
+- Lesson notebooks for each lecture will be put in `course22/`,
   regardless of whether I ran them on Kaggle, Collab, or whatever.
 
 ## Errata and missing updates from book & lesson notebooks
@@ -103,7 +108,9 @@ There are so many ways! I landed on this:
   Last time around, some of the notebooks WOULD NOT run locally for me at all;
   some theoretically work but would require enough GPU/CPU time that it's not
   practical.
-  I tried to record in the 2025 README (not this one!) which ones did and did not work locally.
+  I tried to record in the 2025 README (not this one!) which ones did and did
+  not work locally.
+  I'll copy that info here if I remember. Later.
   Your hardware will be different. YMMV.
 
 ## Notes on my lesson process
@@ -111,6 +118,8 @@ There are so many ways! I landed on this:
 Still may evolve, this is what worked / works *for me*:
 
 I start by watching the lesson video.
+
+OLD PROCESS BELOW - needs update:
 
 When there are Kaggle notebooks linked from the lesson overview page,
 I do this in Kaggle:
