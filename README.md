@@ -10,12 +10,15 @@ AGAIN!!
 I've forgotten much of last year, and another study group spun up - great
 opportunity to review, reinforce, explore more!
 
-## RECURSE? WHAT IS
+## RECURSE? WHAT IS?
 
-I highly recommend [Recurse](https://recurse.com) if you
+I highly recommend [The Recurse Center](https://recurse.com) if you
 want a place to rekindle your excitement about programming and learn in a
 collaborative, encouraging environment. It's phenomenal. And free!
+And once you've been, you are tapped into an incredible community, for life.
 
+Potentially life-changing. It has changed my life, for the better.
+And continues to.
 
 # What's in this repo
 
@@ -27,11 +30,12 @@ collaborative, encouraging environment. It's phenomenal. And free!
 - `course22`: a subtree from https://github.com/fastai/course22 for me to work
   on lesson notebooks
 
-# Where's last year's stuff?
+# Where's the stuff from my previous study group?
 
 It's in [another
 repo](https://github.com/slinkp/practical-deep-learning-fastai)
 ... i decided it was easier / cleaner to start over.
+
 There is some copy/paste in this README, largely to avoid duplicating
 workarounds for boring stumbling blocks like updating outdated dependencies.
 Otherwise it's a clean do-over.
@@ -54,9 +58,8 @@ videos and notebooks, but it's a bit challenging to correlate them:
 It's really essential to treat this as hands-on and not just video content to
 consume.
 
-Work through and run the jupyter notebooks: definitely all the notebooks linked
-from the website, and probably also most or all of the book
-versions of them.
+Work through and run the jupyter notebooks: *definitely* all the notebooks linked
+from the website, and probably also most of the book versions of them.
 
 # How this repo is structured
 
@@ -65,12 +68,14 @@ the textbook, and the notes in this file.
 
 - The [book repo](https://github.com/fastai/fastbook) has been cloned as a git
   subtree in `fastbook/`
-  - i'm not sure i'm going to do these this time; so much was redundant.
+  - i'm not sure i'm going to do these this time; time is limited and there is
+    a lot of overlap.
   - The original, untouched source of each chapter is in
     `fastbook/clean/*.ipynb`
 
 - Lesson notebooks for each lecture will be put in `course22/`,
   regardless of whether I ran them on Kaggle, Collab, or whatever.
+  - I think I'm going to work through the "clean" versions, so `course22/clean/`.
 
 ## Errata and missing updates from book & lesson notebooks
 
